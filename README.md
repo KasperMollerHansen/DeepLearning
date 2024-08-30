@@ -24,11 +24,19 @@ poetry shell
 **How to use git**
 As standard you are on the main-branch. Do never make changes here.
 
-To switch branch use:
+git status # Best command ever!
+
+To switch create a new:
+
+git pull
 
 git checkout -b MYBRANCH
 
-remeber to commit to when ever you stop working.
+You can switch branch by:
+
+git checkout BRANCH
+
+Remeber to commit to when ever you stop working.
 
 If you want your feature branch into the main
 
@@ -36,5 +44,5 @@ git checkout main
 
 git merge MYBRANCH
 
-git branch -d MYBRANCH
+git branch -d MYBRANCH  # Deletes your branch
 
