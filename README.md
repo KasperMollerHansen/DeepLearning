@@ -26,7 +26,7 @@ As standard you are on the main-branch. Do never make changes here.
 
 To switch branch use:
 
-git checkout MYBRANCH
+git checkout -b MYBRANCH
 
 remeber to commit to when ever you stop working.
 
@@ -35,4 +35,6 @@ If you want your feature branch into the main
 git checkout main
 
 git merge MYBRANCH
+
+git branch -d MYBRANCH
 
