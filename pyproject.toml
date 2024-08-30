@@ -11,6 +11,7 @@ numpy = "^2.1.0"
 matplotlib = "^3.9.2"
 scikit-learn = "^1.5.1"
 mlxtend = "^0.23.1"
+ipykernel = "^6.29.5"
 
 
 [build-system]
