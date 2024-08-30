@@ -12,7 +12,7 @@ matplotlib = "^3.9.2"
 scikit-learn = "^1.5.1"
 mlxtend = "^0.23.1"
 ipykernel = "^6.29.5"
-
+ipython = "^8.27.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
