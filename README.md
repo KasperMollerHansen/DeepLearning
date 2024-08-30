@@ -10,6 +10,8 @@ Open that folder in an clone the repository
 
 If you dont have poetry -> pip install poetry
 
+**Make sure that you have python 3.10^**
+
 
 **To create the virtual enviroment**
 
