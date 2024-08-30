@@ -21,4 +21,18 @@ poetry config virtualenvs.in-project true
 
 poetry shell
 
+**How to use git**
+As standard you are on the main-branch. Do never make changes here.
+
+To switch branch use:
+
+git checkout MYBRANCH
+
+remeber to commit to when ever you stop working.
+
+If you want your feature branch into the main
+
+git checkout main
+
+git merge MYBRANCH
 
