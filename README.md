@@ -5,7 +5,6 @@ Make a folder called repositories in "C:\"
 
 Open that folder in an clone the repository
 
-
 **In VScode open the the DeepLearning rep**
 
 If you dont have poetry -> pip install poetry
@@ -28,6 +27,12 @@ git status # Best command ever!
 
 To switch create a new:
 
+git checkout main
+
+git pull
+
+git checkout develop
+
 git pull
 
 git checkout -b MYBRANCH
@@ -40,9 +45,10 @@ Remeber to commit to when ever you stop working.
 
 If you want your feature branch into the main
 
-git checkout main
+git checkout develop
 
 git merge MYBRANCH
 
-git branch -d MYBRANCH  # Deletes your branch
+
+
 
