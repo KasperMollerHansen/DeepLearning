@@ -16,6 +16,7 @@ ipython = "^8.27.0"
 scipy = "^1.14.1"
 tk = "^0.1.0"
 torch = "^2.4.1"
+torchvision = "^0.19.1"
 
 [build-system]
 requires = ["poetry-core"]
