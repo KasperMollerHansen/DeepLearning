@@ -19,6 +19,8 @@ tk = "^0.1.0"
 torch = {version = "^2.4.1+cu118", source = "pytorch-gpu"}
 torchvision = {version = "^0.19.1+cu118", source = "pytorch-gpu"}
 torchaudio = {version = "^2.4.1+cu118", source = "pytorch-gpu"}
+plotly = "^5.24.0"
+nbformat = "^5.10.4"
 
 [[tool.poetry.source]]
 name = "pytorch-gpu"
