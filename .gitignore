@@ -12,6 +12,7 @@
 *.venv
 *FashionMNIST
 *.lock
+data/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
