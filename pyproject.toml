@@ -22,6 +22,7 @@ torchvision = "0.18.1"
 torchsummary = "^1.5.1"
 nbconvert = "^7.16.4"
 pypdf2 = "^3.0.1"
+pandoc = "^2.4"
 
 [tool.poetry.group.dev.dependencies]
 notebook = "^7.2.2"
